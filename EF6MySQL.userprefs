@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EF6MySQL/MyContext.cs">
+    <Files>
+      <File FileName="EF6MySQL/Program.cs" Line="1" Column="1" />
+      <File FileName="EF6MySQL/App.config" Line="1" Column="1" />
+      <File FileName="EF6MySQL/MyModel.cs" Line="6" Column="25" />
+      <File FileName="EF6MySQL/MyContext.cs" Line="13" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

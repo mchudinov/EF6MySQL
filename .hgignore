@@ -1,0 +1,3 @@
+syntax: glob
+EF6MySQL/obj
+EF6MySQL/bin
