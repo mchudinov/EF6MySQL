@@ -3,3 +3,4 @@ EF6MySQL/obj
 EF6MySQL/bin
 packages
 .localhistory
+*.userprefs
